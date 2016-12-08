@@ -3,6 +3,7 @@
     "description": "test composer",
     "type": "project",
     "license": "mit",
+    "version": "0.1",
     "authors": [
         {
             "name": "renjiankl",
