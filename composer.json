@@ -1,0 +1,14 @@
+{
+    "name": "renjiankl/s4s4h4",
+    "description": "test composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "renjiankl",
+            "email": "rjj666@yeah.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
