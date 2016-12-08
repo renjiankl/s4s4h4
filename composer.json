@@ -1,15 +1,12 @@
 {
-    "name": "renjiankl/s4s4h4",
-    "description": "test composer",
-    "type": "project",
-    "license": "mit",
-    "version": "0.1",
-    "authors": [
-        {
-            "name": "renjiankl",
-            "email": "rjj666@yeah.net"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "renjiankl/s4s4h4",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ]
 }
